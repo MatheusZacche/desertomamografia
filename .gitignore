@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.streamlit/secrets.toml
+.venv/
+venv/
+*.log
+_app_shot.png
+_st.log
+_sterr.log
